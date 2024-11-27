@@ -1,0 +1,1 @@
+Learning web development doesn’t have to be complicated! Phone Case Studio is a small project that helps you get familiar with HTML and CSS. The website focuses on presenting phone cases through pages like Home, Products, and Contact. It’s a fantastic reference for anyone passionate about technology.
